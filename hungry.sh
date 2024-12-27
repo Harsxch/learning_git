@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "heheheheehhehehehehehehehheh" > demands.txt
+echo "this is my comment for the other branch" > demands.txt
 date >> demands.log
