@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "I am hungry. Feed me Data" > demands.txt
+echo "heheheheehhehehehehehehehheh" > demands.txt
 date >> demands.log
